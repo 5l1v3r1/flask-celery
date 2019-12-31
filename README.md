@@ -1,5 +1,8 @@
-
 ## Running flask with celery
+
+## Spesification
+1. python 3.8
+2. celery 4.4.0
 
 ### Run docker
 
